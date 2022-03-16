@@ -13,7 +13,6 @@ import WiggleEffect.WiggleEffectType;
 import flixel.FlxBasic;
 import flixel.FlxCamera;
 import flixel.FlxG;
-import webm.WebmIo;
 import webm.WebmIoFile;
 import webm.WebmPlayer;
 import webm.WebmEvent;
